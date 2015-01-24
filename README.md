@@ -14,7 +14,7 @@ only modification I did is that I imported the module I created and run a functi
 The results are impressive for the effort I put. I just rewrite the function
 `standardMatrixProduct` in C++ and exposed it to python using the Boost.Python library.
 ### Results
-Here are a plot of the results:
+Here is a plot of the results:
 ![alt tag](https://raw.githubusercontent.com/gosom/matrix-multiplication-benchmark/master/results/results.png)
 
 ###Comments
