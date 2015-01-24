@@ -23,5 +23,5 @@ Probably for the matrix multiplication problem if you use python you would use [
 The point here was to show how easy you can speedup your code using modules written in C++ using Boost.Python.
 
 [Boost.Python]:http://www.boost.org/doc/libs/1_57_0/libs/python/doc/index.html
-[Martin Thome]:http://martin-thoma.com/matrix-multiplication-python-java-cpp/
+[Martin Thoma]:http://martin-thoma.com/matrix-multiplication-python-java-cpp/
 [NumPy]:http://www.numpy.org/
